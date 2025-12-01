@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+pandasql
+scipy
+cloudpickle
+pyomo
+xlsxwriter
+openpyxl
